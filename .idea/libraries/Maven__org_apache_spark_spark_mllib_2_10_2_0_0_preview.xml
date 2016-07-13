@@ -1,0 +1,56 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.spark:spark-mllib_2.10:2.0.0-preview">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/2.0.0-preview/spark-mllib_2.10-2.0.0-preview.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/2.0.0-preview/spark-mllib_2.10-2.0.0-preview-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/2.0.0-preview/spark-mllib_2.10-2.0.0-preview-sources.jar!/" />
+      <root url="file://E:/open_source/spark-2.0.0-preview" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/common/network-common/src/main/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/common/network-common/src/test/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/common/network-shuffle/src/main/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/common/network-shuffle/src/test/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/common/network-yarn/src/main/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/common/sketch/src/main/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/common/tags/src/main/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/common/tags/src/main/scala" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/common/unsafe/src/main/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/common/unsafe/src/test/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/core/src/main/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/core/src/main/scala" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/core/src/test/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/dev/audit-release/maven_app_core/src/main/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/examples/src/main/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/external/flume/src/main/scala" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/external/flume/src/test/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/external/java8-tests/src/test/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/external/kafka-0-8/src/main/scala" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/external/kafka-0-8/src/test/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/external/kinesis-asl/src/main/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/external/kinesis-asl/src/test/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/graphx/src/main/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/graphx/src/main/scala" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/launcher/src/main/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/launcher/src/test/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/mllib/src/main/scala" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/mllib/src/test/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/sql/catalyst/src/main/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/sql/catalyst/src/test/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/sql/core/src/main/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/sql/core/src/main/scala" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/sql/core/src/test/gen-java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/sql/core/src/test/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/sql/hive-thriftserver/src/gen/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/sql/hive-thriftserver/src/main/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/sql/hive/src/main/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/sql/hive/src/main/scala" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/sql/hive/src/test/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/streaming/src/main/java" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/streaming/src/main/scala" />
+      <root url="file://E:/open_source/spark-2.0.0-preview/streaming/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
